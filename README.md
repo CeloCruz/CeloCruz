@@ -21,3 +21,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/TABLEAU-FFB233?style=for-the-badge&logo=tableau&logoColor=001C99&link=https%3A%2F%2Fwww.tableau.com%2Fes-es)&nbsp;
+![Seaborn](https://img.shields.io/badge/SEABORN-52B5F5?style=for-the-badge&logo=seaborn&logoColor=405EF5)&nbsp;
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-F9F7FF?style=for-the-badge&logo=matlplotlib&logoColor=405EF5)&nbsp;
