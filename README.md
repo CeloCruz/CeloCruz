@@ -3,7 +3,8 @@
 </div>
 <img src=https://user-images.githubusercontent.com/118601949/262663134-50e593b4-7f50-4ddf-9f34-e332eb4865bb.jpg>
 
-[![LinkedIn](https://badgen.net/badge/icon/LinkedIn/blue?icon=linkedin&label)](https://www.linkedin.com/in/marcelo-cruz-segura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MarceloCruz-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcelo-cruz-segura/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-CeloCruz-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/celocruz)
 [![Medium](https://badgen.net/badge/icon/Medium/?color=[black]&icon=medium&label)](https://medium.com/@marceloacruzs)
 
 ## About Me :bulb:
